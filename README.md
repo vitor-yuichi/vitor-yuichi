@@ -2,7 +2,7 @@
 -  environmental engineering (UNESP) student
 - 👀 I’m interested in python/natural disaster data science/statistics
 - 🌱 I’m currently learning python (pandas, matplotlib, seaborn, numpy)/bash/statistics/QGIS/Remote Sensing
-- 💞️ I’m looking to collaborate in data science involving environmetal solution
+- I’m looking to collaborate in data science involving environmetal solution
 
 
 <!---
