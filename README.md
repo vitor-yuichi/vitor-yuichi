@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vitor,
 -  environmental engineering (UNESP) student
-- 👀 I’m interested in python/natural disaster data science/statistics
-- 🌱 I’m currently learning python (pandas, matplotlib, seaborn, numpy)/bash/statistics/QGIS/Remote Sensing
+- 👀 I’m interested in pramming, data analysis and geoscience
+- 🌱 I’m currently learning python, geoprocessing, artificial inteligence and remote sensing
 - I’m looking to collaborate in data science involving environmetal solution
 
 
