@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Vitor,
 -  environmental engineering (UNESP) student
 - 👀 I’m interested in programming, data analysis and geoscience
-- 🌱 I’m currently learning python, geoprocessing, artificial inteligence and remote sensing
-- I’m looking to collaborate in data science involving environmetal solution
 
 
 <!---
