@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Vitor,
--  :open_book: Environmental engineering in São Paulo State University (UNESP), 
-- 👀 I’m interested in programming, data analysis and geoscience
-- :test_tube: In my first scientific project, I analyzed the statistical relations of posts on the social network Twitter with the outbreak of hydrological events (floods) in São Paulo, using tools such as geoprocessing and data science.
-- :desktop_computer: Currently working in Machine Learning algorithms applied to flood forecasting. 
-- :books: Always looking for new technologies to study
-- Python|MatLab|C|Git|SQL
+### Hi, I'm Vitor! 👋
+
+I'm an Environmental Engineering student at São Paulo State University (UNESP) with a passion for leveraging data and technology to solve real-world problems. Here's a bit about me:
+
+- 📚 Studying Environmental Engineering at UNESP.
+- 👨‍💻 Interested in programming, data analysis, and geoscience.
+- 🧪 My first scientific project involved analyzing the statistical relationships between Twitter posts and hydrological events (floods) in São Paulo, using geoprocessing and data science tools.
+- 💻 Currently working as a Data Analyst.
+- 📖 Always eager to explore new technologies and expand my knowledge.
+- 💡 Proficient in Python Automation, crafting complex SQL queries, ETL, developing interactive Dashboards, conducting Advanced Analysis, and conducting scientific research with a strong foundation in Statistics.
+- 🚀 Skills: Python | Data Visualization | Power BI | Metabase | PostgreSQL | MySQL | Microsoft Excel.
+
+Let's connect and collaborate on exciting projects! 🌍📊
+
 <!---
 vitor-yuichi/vitor-yuichi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
